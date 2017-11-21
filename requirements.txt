@@ -1,0 +1,8 @@
+keras
+jupyter
+pandas
+tensorflow
+seaborn
+matplotlib
+numpy
+opencv-python
